@@ -5,10 +5,10 @@ In fact, this game already contains the code for the saves: the save menu and th
 Thanks to Alexey 'Cluster' Avdykhin who is the author of the original hack for the Japanese version.
 
 
-ROM information:
-Database match: Formula 1 Sensation (Europe)
-Database: No-Intro: Nintendo Entertainment System
+ROM information:  
+Database match: Formula 1 Sensation (Europe)  
+Database: No-Intro: Nintendo Entertainment System  
 
-Credits:
-Benland Goutz
+Credits:  
+Benland Goutz  
 bgozzo@hotmail.com
