@@ -1,4 +1,4 @@
-# F1-Sensation (Europe) - Rom-Hack
+# F1-Sensation (Europe) - Rom-Hack for battery save
 
 In fact, this game already contains the code for the saves: the save menu and the load menu. However, on the original cartridge, all files are erased when the power is turned off (even if you install a battery in the cartridge). Apparently, at the final stage of the development of the game, it was decided to reduce the cost of production, so a system of criminally long passwords was introduced. This simple patch fixes the signature verification code so that save files are no longer erased when the power is turned off if there is a battery in the cartridge.
 
