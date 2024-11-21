@@ -6,7 +6,9 @@ Thanks to Alexey 'Cluster' Avdykhin who is the author of the original hack for t
 
 
 ROM information:
+
 Database match: Formula 1 Sensation (Europe)
+
 Database: No-Intro: Nintendo Entertainment System
 
 Credits:
